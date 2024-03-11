@@ -17,7 +17,7 @@
 **Scratch** https://scratch.mit.edu/users/-5min-/   
 **Glitch** https://glitch.com/@5min-6min/  
 
-[![Followers](https://badgen.org/img/zenn/rabbit/followers?style=flat)](https://zenn.dev/rabbit)
+[![Followers](https://badgen.org/img/zenn/5min/followers?style=flat)](https://zenn.dev/5min)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5min-6min&layout=compact&show_icons=true" />
