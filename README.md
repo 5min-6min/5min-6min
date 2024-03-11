@@ -5,7 +5,7 @@
 
 # About Me    
 :jp: Located in Japan  
-:man_student: Dadano students 
+:man_student: Dadano students  
 :computer: Love programming  
 
 # 私について  
