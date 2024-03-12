@@ -16,6 +16,7 @@
 # Accounts / アカウント  
 **Scratch** https://scratch.mit.edu/users/-5min-/   
 **Glitch** https://glitch.com/@5min-6min/  
+**Zenn** https://zenn.com/5min/  
 
 [![Followers](https://badgen.org/img/zenn/5min/followers?style=flat)](https://zenn.dev/5min)
 
