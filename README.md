@@ -7,11 +7,13 @@
 🗾: Located in Japan  
 🎮: Dadano students  
 💻: Love programming  
+✈️:I want to go to the United States by plane  
 
 # 私について  
 🗾: 日本人  
 🎮: だだのの学生  
-💻: 趣味はプログラミング  
+💻: 趣味はプログラミング
+✈️:飛行機でアメリカ行ってみたい  
 
 # Accounts / アカウント  
 **Scratch** https://scratch.mit.edu/users/-5min-/   
